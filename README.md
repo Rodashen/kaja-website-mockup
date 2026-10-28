@@ -12,6 +12,7 @@ An independent landing-page proposal for Kaja Language Tutorial Center, prepared
 - School photographs and information from Kaja's existing public website.
 - Responsive navigation and course-format tabs.
 - One original Korean graph question with answer feedback and reset.
+- Two automatically scrolling rows showing all 97 passers, without visible carousel controls or explanatory captions.
 - Published student results, frequently asked questions, and existing enrollment/contact links.
 - Keyboard controls, visible focus states, and reduced-motion support.
 
